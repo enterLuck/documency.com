@@ -1,0 +1,124 @@
+{"categories":[
+
+{"health":[
+	{"insurance":
+
+	},
+	{"prescription":
+
+	},
+	{"dental":
+	
+	},
+	{"vision":
+	
+	}
+	]
+},
+{"finance":[
+	{"loans":
+
+	},
+	{"tax":
+
+	},
+	{"interest":
+	
+	}
+	]
+},
+{"small business":[
+	{"filings":
+
+	},
+	{"permits & licenses":
+
+	},
+	{"professionals":
+	
+	}
+	]
+},
+{"tech":[
+	{"web":
+
+	},
+	{"mobile":
+
+	},
+	{"sms":
+	
+	},	
+	{"cellphone":
+	
+	},	
+	{"tablet":
+	
+	},	
+	{"wearables":
+	
+	}
+	]
+},
+{"home":[
+	{"insurance":
+
+	},
+	{"mortgage":
+
+	},
+	{"repair":
+	
+	},	
+	{"lease":
+	
+	},	
+	{"energy savings":
+	
+	},	
+	{"tax credits":
+	
+	}
+	]
+},
+{"government":[
+	{"resources":
+
+	},
+	{"structure":
+
+	}
+	]
+},
+{"legal":[
+	{"hiring":
+
+	},
+	{"court proceedings":
+
+	},
+	{"court fees":
+	
+	},	
+	{"attorney types":
+	
+	}
+	]
+},
+{"calculations":[
+	{"interest":[
+		{"simple":
+
+		},
+		{"compound":
+
+		}
+		]
+	},
+	{"distance":
+
+	}
+	]
+},
+]
+}
